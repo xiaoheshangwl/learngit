@@ -3,3 +3,4 @@ Git is free software
 Test Git add 
 git  is a distributed version control system
 git is a distributed software
+git  has a mutable index called stage
