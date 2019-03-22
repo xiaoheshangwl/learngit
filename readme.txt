@@ -8,3 +8,6 @@ git tracks changes of files
 git remote master 
 git push master
 create a new branch so quick and simple
+create a new branch so quick
+create a new branch feature1
+
