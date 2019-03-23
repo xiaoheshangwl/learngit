@@ -11,4 +11,5 @@ create a new branch so quick and simple
 create a new branch so quick
 create a new branch feature1
 add new branch dev for testing git merge
+git stash
 
