@@ -12,4 +12,7 @@ create a new branch so quick
 create a new branch feature1
 add new branch dev for testing git merge
 git stash
+test git stash 
+the bug is now OK
+
 
